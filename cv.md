@@ -11,7 +11,7 @@ A young specialist in software development and data analytics with a solid backg
 
 ##Skills:
 +IDE: VS Code, Atom, Eclipse, IntelliJ IDEA
-+Web: JavaScript, HTML5, CSS3, Java, Python, Node JS, AJAX, REST API, jQuery, JSON
++Web: JavaScript, HTML5, CSS3, Java, Python, NodeJS, AJAX, REST API, jQuery, JSON
 +Frameworks: ReactJS, Bootstrap, Express
 +Databases: SQL/MySQL, MySQL Workbench, MongoDB
 +CDCI: Git, GitHub, Bash
