@@ -7,7 +7,7 @@
 +Github: [github.com/conf1dent]
 
 ##Personal Information:
-A young specialist in software development and data analytics with a solid background in economics, statistics and finance.
+A young specialist in software development and data analytics with a solid background in economics, statistics, and finance.
 
 ##Skills:
 +IDE: VS Code, Atom, Eclipse, IntelliJ IDEA
